@@ -1,7 +1,6 @@
 package com.rest.api.employee.controller;
 
 import com.rest.api.employee.dto.ErmConfigMastDto;
-import com.rest.api.employee.entity.ErmMastConfig;
 import com.rest.api.employee.service.ErmMastConfigService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

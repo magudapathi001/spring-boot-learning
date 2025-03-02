@@ -1,8 +1,6 @@
 package com.rest.api.employee.controller;
 
 import com.rest.api.employee.dto.EmployeeDto;
-import com.rest.api.employee.entity.Employee;
-import com.rest.api.employee.mapper.EmployeeMapper;
 import com.rest.api.employee.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
